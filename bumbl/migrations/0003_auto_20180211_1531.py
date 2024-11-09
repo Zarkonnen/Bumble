@@ -8,7 +8,7 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('bumble', '0002_auto_20171102_2049'),
+        ('bumbl', '0002_auto_20171102_2049'),
     ]
 
     operations = [
